@@ -1,6 +1,6 @@
 {
   "name": "cli-try",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Try的脚手架",
   "main": "index.js",
   "bin": {

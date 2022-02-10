@@ -3,7 +3,6 @@ const program = require('commander')
 const helpOptions = require('./lib/core/help')
 const createCommand = require('./lib/core/create')
 
-
 /** 定义显示模块的版本号 */
 program.version(require('./package.json').version)
 
