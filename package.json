@@ -6,10 +6,15 @@
   "bin": {
     "trycli": "index.js"
   },
+  "homepage": "https://github.com/ITZengWei/trycli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ITZengWei/trycli"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["cli", "tool", "smalllb"],
   "author": "",
   "license": "ISC",
   "dependencies": {
